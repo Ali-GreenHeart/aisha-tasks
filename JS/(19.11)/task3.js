@@ -1,3 +1,4 @@
+// A: umumen calisaq ===  beraberlikden istifade edek. Qalan her sey ok-dur
 Number.prototype.isPrime = function(){
     for(let i=2; i<Math.sqrt(this); i++){
         if(this%i==0) return false
